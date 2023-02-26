@@ -1,6 +1,6 @@
-let modInfo = {
-	name: "The ??? Tree",
-	id: "mymod",
+let modInfo = {The Expansion Tree}
+	name: "The Expansion Tree",
+	id: "3292008",
 	author: "nobody",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
