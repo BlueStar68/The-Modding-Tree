@@ -1,5 +1,5 @@
-let modInfo = {The Expansion Tree}
-	name: "The Expansion Tree",
+let modInfo = {
+	name: "The Expanding Tree",
 	id: "3292008",
 	author: "nobody",
 	pointsName: "points",
